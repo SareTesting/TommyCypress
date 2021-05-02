@@ -8,10 +8,16 @@
   "author": "burak",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^6.6.0"
+    "cypress": "^7.2.0"
   },
-  "dependencies": {
-  "cypress": "7.2.0"
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SareTesting/TommyCypress.git"
   },
+  "bugs": {
+    "url": "https://github.com/SareTesting/TommyCypress/issues"
+  },
+  "homepage": "https://github.com/SareTesting/TommyCypress#readme",
   "description": ""
 }
